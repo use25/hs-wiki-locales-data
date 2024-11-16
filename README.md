@@ -13,7 +13,9 @@ This repository contains configs and other kinds of data to work with [Hearthsto
   * Do not remove any key in ``locales.json``. This may result in the main team's tools being unable to function properly.
   * Please check if ``code`` and ``locIndex`` are matched with your wiki's localization and correct them.
   * You are free to add extra samples data to ``samples.json``, but do not arbuptly change the order of ``locValues``. Their values are already ordered in a way Hearthstone client is currently handling, not us.
-* You can contact to one of these people to gain permissions to commit ``hs-wiki-locales-data``, as long as you are one of the admins in any localized wiki:
-  * This repository's owner
-  * [Hearthstone Wiki Administrators](https://hearthstone.wiki.gg/wiki/Hearthstone_Wiki:Administrators)
-  * [Hearthstone Wiki Administrators in Discord](https://discord.gg/pJCYXfuaDs)
+* You can contact to the main team by the following to gain permissions to commit ``hs-wiki-locales-data``, as long as you are one of the admins in any localized wiki:
+  * Create new section in [Hearthstone Wiki:Admin noticeboard](https://hearthstone.wiki.gg/wiki/Hearthstone_Wiki:Admin_noticeboard)
+  * Create new section in Talk page of one of these users: [Hearthstone Wiki Administrators](https://hearthstone.wiki.gg/wiki/Hearthstone_Wiki:Administrators)
+  * Posting message in any channel in [Hearthstone Wiki Discord server](https://discord.gg/pJCYXfuaDs)
+  * Sending email to hearthstonewikiofficial@gmail.com
+  * We also have accounts for other social media, but it's unlikely that we use them as main contacts
