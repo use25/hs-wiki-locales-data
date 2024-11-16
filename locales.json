@@ -1,0 +1,86 @@
+[
+	{
+		"code": "enUS",
+		"locIndex": 0,
+		"wikiLink": "https://hearthstone.wiki.gg/",
+		"uiName": "English (US)"
+	},
+	{
+		"code": "deDE",
+		"locIndex": 1,
+		"wikiLink": null,
+		"uiName": "Placeholder (deDE)"
+	},
+	{
+		"code": "esES",
+		"locIndex": 2,
+		"wikiLink": null,
+		"uiName": "Placeholder (esES)"
+	},
+	{
+		"code": "esMX",
+		"locIndex": 3,
+		"wikiLink": null,
+		"uiName": "Placeholder (esMX)"
+	},
+	{
+		"code": "frFR",
+		"locIndex": 4,
+		"wikiLink": null,
+		"uiName": "Placeholder (frFR)"
+	},
+	{
+		"code": "itIT",
+		"locIndex": 5,
+		"wikiLink": null,
+		"uiName": "Placeholder (itIT)"
+	},
+	{
+		"code": "jaJP",
+		"locIndex": 6,
+		"wikiLink": null,
+		"uiName": "Placeholder (jaJP)"
+	},
+	{
+		"code": "koKR",
+		"locIndex": 7,
+		"wikiLink": null,
+		"uiName": "Placeholder (koKR)"
+	},
+	{
+		"code": "plPL",
+		"locIndex": 8,
+		"wikiLink": null,
+		"uiName": "Placeholder (plPL)"
+	},
+	{
+		"code": "ptBR",
+		"locIndex": 9,
+		"wikiLink": null,
+		"uiName": "Placeholder (ptBR)"
+	},
+	{
+		"code": "ruRU",
+		"locIndex": 10,
+		"wikiLink": null,
+		"uiName": "Placeholder (ruRU)"
+	},
+	{
+		"code": "thTH",
+		"locIndex": 11,
+		"wikiLink": null,
+		"uiName": "Placeholder (thTH)"
+	},
+	{
+		"code": "zhCN",
+		"locIndex": 12,
+		"wikiLink": null,
+		"uiName": "Placeholder (zhCN)"
+	},
+	{
+		"code": "zhTW",
+		"locIndex": 13,
+		"wikiLink": null,
+		"uiName": "Placeholder (zhTW)"
+	}
+]

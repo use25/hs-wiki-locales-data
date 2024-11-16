@@ -1,0 +1,114 @@
+[
+	{
+		"textInHand": {
+			"locValues": [
+				"<b>Battlecry:</b> Your opponent's spells cost (1) more next_turn.",
+				"[x]<b>Kampfschrei:</b> Im nächsten\nZug kosten Zauber für Euren\nGegner (1) mehr.",
+				"[x]<b>Grito de batalla:</b>\nLos hechizos de tu oponente\ncuestan (1)_cristal más\nel próximo turno.",
+				"<b>Grito de batalla:</b> los hechizos de tu adversario cuestan (1) más el_próximo turno.",
+				"<b>Cri de guerre_:</b> les sorts de votre adversaire coûtent (1)_|4(cristal,cristaux) de plus au prochain tour.",
+				"[x]<b>Grido di Battaglia:</b>\nnel turno successivo, le\nMagie dell'avversario\ncostano (1) in più.",
+				"[x]<b>雄叫び:</b>\n次のターン、相手の\n呪文のコストが\n（1）増える。",
+				"<b>전투의 함성:</b> 다음 턴에 상대편이 시전하는 주문의 비용이 (1) 증가합니다.",
+				"<b>Okrzyk bojowy:</b>\nZaklęcia twojego przeciwnika kosztują (1) więcej w_następnej turze.",
+				"<b>Grito de Guerra:</b> Os feitiços do oponente custam (1) a mais no turno seguinte.",
+				"<b>Боевой клич:</b> увеличивает стоимость заклинаний противника на (1) до конца его следующего хода.",
+				"<b>คำรามสู้ศึก:</b> เวทมนตร์[b]ของคู่ต่อสู้มีค่าร่ายเพิ่มขึ้น[b](1)_ในเทิร์นถัดไป",
+				"<b>战吼：</b>下个回合你的对手法术的法力值消耗增加（1）点。",
+				"<b>戰吼：</b>下回合對手的法術消耗增加(1)"
+			]
+		},
+		"name": {
+			"locValues": [
+				"Cult Neophyte",
+				"Kultneophytin",
+				"Neófita del culto",
+				"Neófita del culto",
+				"Néophyte du Culte",
+				"Neofita del Culto",
+				"教団の新入会員",
+				"교단 수련사",
+				"Neofitka kultu",
+				"Neófita da Seita",
+				"Неофитка культа",
+				"สาวกฝึกหัด",
+				"异教低阶牧师",
+				"見習教徒"
+			]
+		},
+		"flavorText": {
+			"locValues": [
+				"Make a new recruit's deficiencies your efficiencies.",
+				"Eigentlich wollte sie Kultur-\nwissenschaft belegen, hat sich aber bei der Anmeldung verlesen.",
+				"Convierte en eficiencia las deficiencias de los nuevos reclutas.",
+				"Convierte los defectos de tu nuevo recluta en sus mejores efectos.",
+				"Tournez les défauts d’une nouvelle recrue à votre avantage.",
+				"Trasforma i fallimenti delle reclute nei tuoi successi.",
+				"新人の短所を、信心の長所へ。",
+				"새로운 신자의 부족함을 효율적으로 이용합니다.",
+				"Zadba o to, by napsuć krwi przeciwnikowi.",
+				"Faça das deficiências dos seus novos recrutas suas eficiências.",
+				"Мешать окружающим — тоже ценный навык.",
+				"สร้างความทุพพลภาพให้สมาชิกใหม่[b]เพื่อเพิ่มประสิทธิภาพให้คุณ",
+				"新手牧师，让对手无法可施。",
+				"菜鳥教徒的第一門課，就是學習搞破壞。"
+			]
+		}
+	},
+	{
+		"textInHand": {
+			"locValues": [
+				"[x]<b>Battlecry:</b> Raise ALL of your\n<b>Corpses</b> as 1/1 Risen Golems\nwith <b>Rush</b>. For each that can't\nfit, give one +2/+2.",
+				"[x]<b>Kampfschrei:</b> Erweckt ALL Eure\n<b>Leichen</b> als Auferstandene Golems\n(1/1) mit <b>Eifer</b>. Für jeden, der\nnicht auf das Schlachtfeld passt,\nerhält ein anderer +2/+2.",
+				"[x]<b>Grito de batalla:</b> Resucita a\nTODOS tus <b>cadáveres</b> como\ngólems resucitados 1/1 con\n<b>Embestir</b>. Por cada uno que no\n______quepa, otorga +2/+2 a otro.__",
+				"<b>Grito de batalla:</b> resucita a TODOS tus <b>Cadáveres</b> como Gólems resucitados 1/1 con <b>Acometida</b>. Por cada uno que no cabe, otorga +2/+2 a uno.",
+				"<b>Cri de guerre_:</b> TOUS_vos_<b>cadavres</b> reprennent vie et deviennent des golems ressuscités_1/1 avec <b>Ruée</b>. Pour chaque golem sans place, donne_+2/+2 à_un_autre_golem.",
+				"[x]<b>Grido di Battaglia:</b> resuscita i\ntuoi <b>Cadaveri</b> come Golem Risorti\n1/1 con <b>Assalto</b>. Per ogni Golem\nche non trova posto sul tabellone,\n+2/+2 a uno degli altri.",
+				"[x]<b>雄叫び:</b>_自分の全ての<b>死体</b>を\n<b>急襲</b>を持つ1/1のゴーレムとして\n蘇らせる。自陣に収まらない分\n1体ごとに「蘇ったゴーレム」\n____1体に+2/+2を付与する。",
+				"<b>전투의 함성:</b> 내 모든 <b>시체</b>를 <b>속공</b> 능력이 있는 1/1 되살아난 골렘으로 되살립니다. 되살리지 못한 골렘의 수만큼 무작위 골렘에게 +2/+2를 부여합니다.",
+				"<b>Okrzyk bojowy:</b>\nWskrześ WSZYSTKIE twoje <b>Trupy</b> jako Wskrzeszone golemy 1/1 ze_<b>Zrywem</b>. Za każdego, który się nie mieści, daj jednemu +2/+2.",
+				"<b>Grito de Guerra:</b> Ressuscite TODOS os seus <b>Cadáveres</b> na forma de Golens Revividos 1/1 com <b>Rapidez</b>. Para cada um que não couber, conceda +2/+2 a outro.",
+				"<b>Боевой клич:</b> оживляет\nвсе ваши <b>трупы</b> как големов 1/1 с <b>«Натиском»</b>. За каждого не поместившегося на поле один из них получает +2/+2.",
+				"<b>คำรามสู้ศึก:</b>_ปลุก_<b>ศพ</b>_ของคุณทั้ง[b]หมดเป็นโกเล็มผีดิบ 1/1 ที่มี <b>จู่โจม</b> มอบ_+2/+2_ให้โกเล็มผีดิบหนึ่งตัว_[b]ต่อแต่ละตัวที่ลงสนามไม่พอ",
+				"<b>战吼：</b>将你的所有<b>残骸</b>复活为1/1并具有<b>突袭</b>的复活的傀儡。每有一个放不下的傀儡，使一个傀儡获得+2/+2。",
+				"<b>戰吼：</b>將你全部的<b>屍體</b>復生為有<b>衝刺</b>的1/1復生魔像。每個戰場上無法容納的復生魔像，都會賦予一個復生魔像+2/+2"
+			]
+		},
+		"name": {
+			"locValues": [
+				"Lord Marrowgar",
+				"Lord Mark’gar",
+				"Lord Tuétano",
+				"Lord Tuétano",
+				"Seigneur Gargamoelle",
+				"Sire Ossamorte",
+				"ロード・マロウガー",
+				"군주 매로우가르",
+				"Lord Kościejec",
+				"Lorde Medulante",
+				"Лорд Ребрад",
+				"ลอร์ดแมโรว์การ์",
+				"玛洛加尔领主",
+				"瑪洛嘉領主"
+			]
+		},
+		"flavorText": {
+			"locValues": [
+				"And now, Lord Marrowgar with the weather.",
+				"Und nun, Lord Mark’gar mit dem Wetter.",
+				"Y ahora pasamos al tiempo con lord Tuétano.",
+				"Y ahora, Lord Tuétano con el informe del clima.",
+				"Et maintenant, le seigneur Gargamoelle pour les prévisions météo.",
+				"E ora, Sire Ossamorte e i suoi tendini!",
+				"この後は、ロード・マロウガーの天気予報です。",
+				"골렘 모두 기상!",
+				"A teraz Lord Kościejec zapowie prognozę pogody.",
+				"E agora a previsão do tempo com o Lorde Medulante.",
+				"А теперь лорд Ребрад расскажет вам о погоде.",
+				"และต่อไป ลอร์ดแมโรว์การ์จะมารายงานสภาพ[b]อากาศ",
+				"太冷了，玛洛加尔领主都病了。疯尸病。",
+				"接下來將由瑪洛嘉領主為你帶來天氣預報。"
+			]
+		}
+	}
+]
