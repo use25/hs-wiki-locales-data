@@ -5,7 +5,7 @@ This repository contains configs and other kinds of data to work with [Hearthsto
 ## How it works
 
 * The main team (English team) will use ``locales.json`` as config for their tools, which pushes the Hearthstone data to the localized wikis with the matched locale data (such as text, name, strings and logos). This file consists of:
-  * ``code``: an enum, also served as main ID and entries for other Hearthstone projects, such as [HearthSim's ``hsdata``](https://github.com/HearthSim/hsdata)
+  * ``code``: locale enum, also served as main ID and entries for other Hearthstone projects, such as [HearthSim's ``hsdata``](https://github.com/HearthSim/hsdata). It is also folder name in ``/<Hearthstone directory>/Strings``
   * ``locIndex``: index number of the locale based on ``locValues`` arrays shown in ``samples.json``
   * ``wikiLink``: Localized wiki's domain name with ``https://``. Most of them should be ``https://hearthstone.wiki.gg/<WikiGG's locale code>``
   * ``uiName``: The name displayed for future GUI applications, which provide extra editing tools to help you manage your Wikis.
