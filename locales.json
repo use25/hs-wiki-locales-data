@@ -2,7 +2,7 @@
 	{
 		"code": "enUS",
 		"locIndex": 0,
-		"wikiLink": "https://hearthstone.wiki.gg",
+		"wikiLink": null,
 		"uiName": "English (US)"
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"code": "zhCN",
 		"locIndex": 12,
-		"wikiLink": null,
+		"wikiLink": "https://hearthstone.wiki.gg/zh",
 		"uiName": "Placeholder (zhCN)"
 	},
 	{
